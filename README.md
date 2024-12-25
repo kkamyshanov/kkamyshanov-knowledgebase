@@ -1,2 +1,2 @@
-# kkamyshanov-knowledge-notes
-Notes that I take while studying books and course materials
+# kkamyshanov-knowledgebase
+Notes that I take while studying books, course materials, and other resources
